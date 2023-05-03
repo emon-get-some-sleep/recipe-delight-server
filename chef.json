@@ -7,9 +7,13 @@
             "years_of_experience": 12,
             "number_of_recipes": 8,
             "likes": 6,
+            "about": "Soha Sen is a highly successful chef based in Mumbai. He owns 5 restaurant. He is a local celebrity. Known for great cooking and a warm smile, people come from all over the country to eat is special recipe",
             "recipes": [
                 {
+                    "recepi_id": "1",
                     "recipe_name": "Spicy Chicken Curry",
+                    "description": " Spicy chicken curry is a flavorful and aromatic dish made with tender chicken pieces cooked in a blend of aromatic spices, including cumin, coriander, turmeric, and chili powder. The dish typically includes onions, garlic, and ginger, as well as tomatoes, coconut milk, and fresh cilantro. This dish can be adjusted to varying levels of spiciness, depending on personal preference.",
+
                     "image_url": "https://images.unsplash.com/photo-1517244683847-7456b63c5969?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=388&q=80",
                     "ingredients": [
                        
@@ -23,7 +27,44 @@
                     ],
                     "cooking_method": "1. Heat the oil in a large skillet over medium heat. Add the onion, garlic, and ginger and cook until softened, about 5 minutes.2. Add the chicken to the skillet and cook until browned on all sides.",
                     "rating": 4.5
-                }
+                },
+                {
+                    "recipe_id": "2",
+                    "recipe_name": "Baked Salmon with Lemon Butter Sauce",
+                    "description": "This dish is perfect for seafood lovers. Fresh salmon fillets are baked in the oven and served with a delicious lemon butter sauce. The salmon is seasoned with garlic, salt, and pepper, and then topped with a slice of lemon. The sauce is made by melting butter in a saucepan and adding lemon juice, honey, and a pinch of cayenne pepper. This dish is healthy, flavorful, and easy to make!",
+                    "image_url": "https://images.unsplash.com/photo-1606491956689-2ea866880c84?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=721&q=80",
+                    "ingredients": [
+                    "4 salmon fillets",
+                    "3 cloves garlic, minced",
+                    "1 lemon, sliced",
+                    "Salt and pepper",
+                    "4 tbsp butter",
+                    "1/4 cup lemon juice",
+                    "2 tbsp honey",
+                    "Pinch of cayenne pepper"
+                    ],
+                    "cooking_method": "1. Preheat oven to 400 degrees F.2. Place salmon fillets on a baking sheet and season with garlic, salt, and pepper. Top each fillet with a slice of lemon.3. Bake for 12-15 minutes or until the salmon is cooked through.4. Meanwhile, melt butter in a saucepan over low heat. Add lemon juice, honey, and cayenne pepper. Stir until well combined.5. Serve the salmon hot with the lemon butter sauce drizzled on top.",
+                    "rating": 4.8
+                    },
+                    {
+                        "recipe_id": "3",
+                        "recipe_name": "Vegetable Stir-Fry",
+                        "description": "This vegetable stir-fry is a quick and easy dish that's perfect for a healthy weeknight meal. The dish is made with a variety of colorful vegetables, including broccoli, bell peppers, carrots, and onions, that are stir-fried together in a flavorful sauce made with soy sauce, honey, and ginger. This dish is vegan and gluten-free.",
+                        "image_url": "https://images.unsplash.com/photo-1625398407796-82650a8c135f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80",
+                        "ingredients": [
+                        "1 head broccoli, chopped",
+                        "2 bell peppers, sliced",
+                        "2 carrots, sliced",
+                        "1 onion, sliced",
+                        "3 cloves garlic, minced",
+                        "1 tbsp ginger, minced",
+                        "2 tbsp soy sauce",
+                        "1 tbsp honey",
+                        "2 tbsp vegetable oil"
+                        ],
+                        "cooking_method": "1. In a small bowl, whisk together soy sauce, honey, and ginger. Set aside.2. Heat vegetable oil in a large skillet over medium-high heat.3. Add garlic and onion, and stir-fry for 1-2 minutes, until fragrant.4. Add the rest of the vegetables and stir-fry for 3-4 minutes, until vegetables are crisp-tender.5. Pour in the sauce and stir-fry for an additional minute, until the vegetables are coated in the sauce.6. Serve hot over rice or noodles.",
+                        "rating": 4.3
+                        }
             ]
         },
         {
@@ -32,7 +73,67 @@
             "chef_name": "Vikas Khanna",
             "years_of_experience": 10,
             "number_of_recipes": 8,
-            "likes": 6
+            "likes": 6,
+            "about": "Vikas Khanna is a highly successful chef based in Mumbai. He owns 5 restaurant. He is a local celebrity. Known for great cooking and a warm smile, people come from all over the country to eat is special recipe",
+            "recipes": [
+                {
+                    "recipe_id": "5",
+                    "recipe_name": "Pesto Pasta",
+                    "description": "This simple and classic Italian dish is a perfect go-to meal for a quick and easy dinner. The pasta is tossed with homemade basil pesto made with fresh basil leaves, garlic, parmesan cheese, pine nuts, and olive oil. It's a great vegetarian option that can be enjoyed hot or cold.",
+                    "image_url": "https://images.pexels.com/photos/2474661/pexels-photo-2474661.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=10",
+                    "ingredients": [
+                    "1 pound pasta",
+                    "2 cups fresh basil leaves",
+                    "3 cloves garlic",
+                    "1/2 cup grated parmesan cheese",
+                    "1/2 cup pine nuts",
+                    "1/2 cup olive oil",
+                    "Salt and pepper"
+                    ],
+                    "cooking_method": "1. Cook pasta according to package instructions.2. Meanwhile, make the pesto by combining basil, garlic, parmesan cheese, pine nuts, and olive oil in a food processor. Blend until smooth.3. Drain the pasta and reserve 1 cup of pasta water.4. In a large bowl, toss the pasta with the pesto, adding pasta water as needed to loosen the sauce.5. Season with salt and pepper to taste.6. Serve hot or cold.",
+                    "rating": 4.7
+                    },
+                    
+                    {
+                    "recipe_id": "6",
+                    "recipe_name": "Beef and Broccoli Stir-Fry",
+                    "description": "This beef and broccoli stir-fry is a classic Chinese dish that is both healthy and delicious. The dish features tender strips of beef and crisp broccoli florets that are stir-fried together in a savory sauce made with soy sauce, oyster sauce, and garlic. This dish can be served with rice or noodles.",
+                    "image_url": "https://images.pexels.com/photos/2679501/pexels-photo-2679501.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                    "ingredients": [
+                    "1 pound flank steak, thinly sliced",
+                    "4 cups broccoli florets",
+                    "4 cloves garlic, minced",
+                    "1 tbsp ginger, minced",
+                    "1/4 cup soy sauce",
+                    "1/4 cup oyster sauce",
+                    "2 tbsp vegetable oil",
+                    "1 tsp cornstarch",
+                    "1/4 cup water"
+                    ],
+                    "cooking_method": "1. In a small bowl, whisk together soy sauce, oyster sauce, cornstarch, and water. Set aside.2. Heat vegetable oil in a large skillet over high heat.3. Add garlic and ginger, and stir-fry for 1-2 minutes, until fragrant.4. Add beef and stir-fry for 3-4 minutes, until browned Add beef and stir-fry for 3-4 minutes, until browned.5. Add broccoli and stir-fry for an additional 2-3 minutes, until crisp-tender.6. Pour the sauce over the beef and broccoli mixture and stir to combine.7. Cook for an additional 1-2 minutes, until the sauce has thickened.8. Serve hot with rice or noodles.",
+                    "rating": 4.6
+                    },
+                    
+                    {
+                    "recipe_id": "7",
+                    "recipe_name": "Black Bean Burgers",
+                    "description": "These black bean burgers are a vegetarian alternative to traditional beef burgers that are both flavorful and healthy. The burgers are made with mashed black beans, breadcrumbs, egg, and a variety of seasonings, including cumin, chili powder, and garlic. They are perfect for grilling or pan-frying and can be served with all your favorite burger toppings.",
+                    "image_url": "https://images.pexels.com/photos/1633578/pexels-photo-1633578.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                    "ingredients": [
+                    "2 cans black beans, drained and rinsed",
+                    "1/2 cup breadcrumbs",
+                    "1 egg",
+                    "1 tbsp cumin",
+                    "1 tbsp chili powder",
+                    "2 cloves garlic, minced",
+                    "Salt and pepper",
+                    "4 burger buns",
+                    "Your favorite burger toppings (lettuce, tomato, onion, cheese, etc.)"
+                    ],
+                    "cooking_method": "1. Preheat the grill or a large skillet over medium-high heat.2. In a medium bowl, mash the black beans with a fork or potato masher.3. Add the breadcrumbs, egg, cumin, chili powder, garlic, salt, and pepper, and mix until well combined.4. Divide the mixture into four equal portions and shape each portion into a patty.5. Place the patties on the grill or in the skillet and cook for 5-6 minutes per side, or until heated through and browned.6. Serve the burgers on buns with your favorite toppings.",
+                    "rating": 4.4
+                    }
+            ]
         },
         {
             "id": 3,
@@ -40,7 +141,89 @@
             "chef_name": "Sanjeev Kapoor",
             "years_of_experience": 18,
             "number_of_recipes": 6,
-            "likes": 9
+            "likes": 9,
+            "about": "Sanjeev Kapoor is a highly successful chef based in Mumbai. He owns 5 restaurant. He is a local celebrity. Known for great cooking and a warm smile, people come from all over the country to eat is special recipe",
+            "recipes": [
+                {
+                    "recipe_id": "12",
+                    "recipe_name": "Vegetable Stir-Fry",
+                    "description": "This vegetable stir-fry is a quick and easy dish that's perfect for a healthy and flavorful meal. It features a variety of fresh vegetables, including bell peppers, broccoli, mushrooms, and snow peas, stir-fried in a savory sauce made with soy sauce, garlic, and ginger. It can be served over rice or noodles, or enjoyed on its own as a low-carb option.",
+                    "image_url": "https://natashaskitchen.com/wp-content/uploads/2020/08/Vegetable-Stir-Fry-2.jpg",
+                    "ingredients": [
+                    "1 tbsp vegetable oil",
+                    "1 bell pepper, sliced",
+                    "1 cup broccoli florets",
+                    "1 cup sliced mushrooms",
+                    "1 cup snow peas",
+                    "2 cloves garlic, minced",
+                    "1 tsp ginger, minced",
+                    "1/4 cup soy sauce",
+                    "1/4 cup vegetable broth",
+                    "1 tbsp cornstarch",
+                    "1 tbsp water",
+                    "Salt and pepper"
+                    ],
+                    "cooking_method": "1. Heat the oil in a large wok or skillet over high heat.2. Add the bell pepper, broccoli, mushrooms, and snow peas to the wok and stir-fry for 2-3 minutes, until crisp-tender.3. Add the garlic and ginger and stir-fry for an additional 30 seconds.4. In a small bowl, whisk together the soy sauce, vegetable broth, cornstarch, and water.5. Pour the sauce over the vegetables in the wok and stir-fry for 1-2 minutes, until the sauce has thickened.6. Season with salt and pepper to taste.7. Serve hot over rice or noodles.",
+                    "rating": 4.7
+                    },
+                    
+                    {
+                        "recipe_id": "22",
+                        "recipe_name": "Classic Beef Burger",
+                        "description": "This classic beef burger recipe is a crowd-pleaser and perfect for grilling season. Made with ground beef, Worcestershire sauce, and spices, these burgers are juicy and flavorful. Top them with your favorite fixings, like cheese, lettuce, tomato, and onion, and serve with fries or a salad for a satisfying meal.",
+                        "image_url": "https://images.pexels.com/photos/1633578/pexels-photo-1633578.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                        "ingredients": [
+                        "1 lb ground beef",
+                        "1 tbsp Worcestershire sauce",
+                        "1 tsp salt",
+                        "1/2 tsp black pepper",
+                        "1/2 tsp garlic powder",
+                        "4 hamburger buns",
+                        "Optional toppings: cheese, lettuce, tomato, onion"
+                        ],
+                        "cooking_method": "1. Preheat grill to medium-high heat.2. In a large mixing bowl, combine ground beef, Worcestershire sauce, salt, black pepper, and garlic powder. Mix well.3. Divide the beef mixture into 4 equal parts and shape them into patties. Make a small indentation in the center of each patty with your thumb.4. Grill the patties for 3-4 minutes on each side, or until they reach your desired level of doneness.5. Toast the hamburger buns on the grill for 1-2 minutes.6. Assemble the burgers by placing the patties on the buns and adding your desired toppings.7. Serve hot with fries or a salad.",
+                        "rating": 4.8
+                        },
+                    
+                        {
+                            "recipe_id": "102",
+                            "recipe_name": "Caprese Salad",
+                            "description": "This Caprese Salad is a simple, fresh and classic Italian salad made with juicy ripe tomatoes, fresh mozzarella cheese, and fragrant basil leaves. The salad is then dressed with olive oil and balsamic vinegar, making it a light and refreshing side dish for any occasion.",
+                            "image_url": "https://natashaskitchen.com/wp-content/uploads/2019/08/Caprese-Salad-6.jpg",
+                            "ingredients": [
+                            "4 ripe tomatoes, sliced",
+                            "1 lb fresh mozzarella cheese, sliced",
+                            "1/2 cup fresh basil leaves",
+                            "3 tbsp olive oil",
+                            "1 tbsp balsamic vinegar",
+                            "Salt and pepper to taste"
+                            ],
+                            "cooking_method": "1. Arrange the sliced tomatoes and mozzarella on a serving platter, alternating each slice.2. Sprinkle the fresh basil leaves on top of the tomato and mozzarella slices.3. Drizzle the olive oil and balsamic vinegar over the salad.4. Season the salad with salt and pepper to taste.5. Serve immediately and enjoy!",
+                            "rating": 4.9
+                            },
+                            {
+                                "recipe_id": "101",
+                                "recipe_name": "Masala Dosa",
+                                "description": "Masala dosa is a popular South Indian dish that consists of a crispy, crepe-like shell made from fermented rice and lentil batter, filled with a spicy potato mixture. The potato filling is made with boiled potatoes, onions, mustard seeds, curry leaves, and a blend of aromatic spices. The dish is typically served with coconut chutney and sambar, a lentil-based vegetable soup.",
+                                "image_url": "https://www.cookwithmanali.com/wp-content/uploads/2020/05/Masala-Dosa.jpg",
+                                "ingredients": [
+                                "1 cup long grain rice",
+                                "1/2 cup urad dal (split black lentils)",
+                                "1/2 tsp fenugreek seeds",
+                                "1 large potato, boiled and mashed",
+                                "1 onion, chopped",
+                                "1 tbsp mustard seeds",
+                                "1 tbsp cumin seeds",
+                                "1/2 tsp turmeric powder",
+                                "1/2 tsp red chili powder",
+                                "1/4 cup chopped cilantro",
+                                "1 tbsp vegetable oil",
+                                "Salt to taste"
+                                ],
+                                "cooking_method": "1. Rinse the rice, urad dal, and fenugreek seeds together and soak them in water for at least 4-5 hours.2. Drain the water and grind the rice, dal, and fenugreek seeds together into a fine batter.3. Cover and let the batter ferment for 8-10 hours, or overnight.4. In a pan, heat the vegetable oil over medium heat.5. Add the mustard seeds and let them splutter.6. Add the cumin seeds and onions, and cook until the onions are translucent.7. Add the turmeric powder and red chili powder, and cook for another minute.8. Add the mashed potato and mix well. Add salt to taste.9. Heat a non-stick pan over medium heat.10. Pour a ladleful of batter onto the pan and spread it in a circular motion to form a thin crepe.11. Spread some of the potato mixture onto one half of the crepe.12. Fold the other half over the filling and serve hot with coconut chutney and sambar.",
+                                "rating": 4.7
+                                }
+            ]
         },
         {
             "id": 4,
@@ -48,7 +231,86 @@
             "chef_name": "Tarla Dalal",
             "years_of_experience": 20,
             "number_of_recipes": 4,
-            "likes": 2
+            "likes": 2,
+            "about": "Tarla Dalal is a highly successful chef based in Mumbai. He owns 5 restaurant. He is a local celebrity. Known for great cooking and a warm smile, people come from all over the country to eat is special recipe",
+            "recipes": [
+                {
+                    "recipe_id": "456",
+                    "recipe_name": "Butter Chicken",
+                    "description": "Butter chicken, also known as murgh makhani, is a popular Indian dish made with boneless chicken, butter, cream, and a blend of aromatic spices. The chicken is marinated in a mixture of yogurt and spices, then grilled or baked. The creamy sauce is made with tomatoes, butter, cream, and spices, and is simmered with the cooked chicken, creating a delicious and satisfying meal that is perfect served with naan or rice.",
+                    "image_url": "https://images.themodernproper.com/billowy-turkey/production/posts/2021/Butter-Chicken-16.jpg?w=800&q=82&fm=jpg&fit=crop&dm=1612504134&s=0ddb760a83d7f4c7798e1b2f5854b21d",
+                    "ingredients": [
+                    "1 lb boneless chicken, cut into cubes",
+                    "1/2 cup plain yogurt",
+                    "1 tbsp ginger-garlic paste",
+                    "1 tsp cumin powder",
+                    "1 tsp coriander powder",
+                    "1/2 tsp turmeric powder",
+                    "1/2 tsp red chili powder",
+                    "1/2 tsp garam masala",
+                    "1/2 tsp salt",
+                    "2 tbsp butter",
+                    "1 onion, chopped",
+                    "1 can (14 oz) crushed tomatoes",
+                    "1/2 cup heavy cream",
+                    "2 tbsp chopped fresh cilantro"
+                    ],
+                    "cooking_method": "1. In a large bowl, mix together the yogurt, ginger-garlic paste, cumin powder, coriander powder, turmeric powder, red chili powder, garam masala, and salt.2. Add the chicken to the marinade and mix well. Cover and refrigerate for at least 1 hour, or overnight.3. Preheat the oven to 400°F. Place the marinated chicken on a baking sheet and bake for 20-25 minutes, or until cooked through.4. While the chicken is baking, melt the butter in a large pan over medium heat. Add the chopped onion and cook until softened.5. Add the crushed tomatoes and cook for 5-7 minutes, stirring occasionally.6. Add the heavy cream and stir well.7. Add the cooked chicken to the sauce and stir to coat.8. Simmer for 10-15 minutes, until the sauce has thickened and the chicken is tender.9. Garnish with chopped cilantro and serve hot with naan or rice.",
+                    "rating": 4.8
+                },
+                    
+                    {
+                        "recipe_id": "402",
+                        "recipe_name": "Classic Beef Burger",
+                        "description": "This classic beef burger recipe is a crowd-pleaser and perfect for grilling season. Made with ground beef, Worcestershire sauce, and spices, these burgers are juicy and flavorful. Top them with your favorite fixings, like cheese, lettuce, tomato, and onion, and serve with fries or a salad for a satisfying meal.",
+                        "image_url": "https://images.pexels.com/photos/1633578/pexels-photo-1633578.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                        "ingredients": [
+                        "1 lb ground beef",
+                        "1 tbsp Worcestershire sauce",
+                        "1 tsp salt",
+                        "1/2 tsp black pepper",
+                        "1/2 tsp garlic powder",
+                        "4 hamburger buns",
+                        "Optional toppings: cheese, lettuce, tomato, onion"
+                        ],
+                        "cooking_method": "1. Preheat grill to medium-high heat.2. In a large mixing bowl, combine ground beef, Worcestershire sauce, salt, black pepper, and garlic powder. Mix well.3. Divide the beef mixture into 4 equal parts and shape them into patties. Make a small indentation in the center of each patty with your thumb.4. Grill the patties for 3-4 minutes on each side, or until they reach your desired level of doneness.5. Toast the hamburger buns on the grill for 1-2 minutes.6. Assemble the burgers by placing the patties on the buns and adding your desired toppings.7. Serve hot with fries or a salad.",
+                        "rating": 4.8
+                        },
+                    
+                        {
+                            "recipe_id": "408",
+                            "recipe_name": "Caprese Salad",
+                            "description": "This Caprese Salad is a simple, fresh and classic Italian salad made with juicy ripe tomatoes, fresh mozzarella cheese, and fragrant basil leaves. The salad is then dressed with olive oil and balsamic vinegar, making it a light and refreshing side dish for any occasion.",
+                            "image_url": "https://www.cookwithmanali.com/wp-content/uploads/2019/08/Palak-Paneer.jpg",
+                            "ingredients": [
+                            "4 ripe tomatoes, sliced",
+                            "1 lb fresh mozzarella cheese, sliced",
+                            "1/2 cup fresh basil leaves",
+                            "3 tbsp olive oil",
+                            "1 tbsp balsamic vinegar",
+                            "Salt and pepper to taste"
+                            ],
+                            "cooking_method": "1. Arrange the sliced tomatoes and mozzarella on a serving platter, alternating each slice.2. Sprinkle the fresh basil leaves on top of the tomato and mozzarella slices.3. Drizzle the olive oil and balsamic vinegar over the salad.4. Season the salad with salt and pepper to taste.5. Serve immediately and enjoy!",
+                            "rating": 4.9
+                            },
+                            {
+                                "recipe_id": "301",
+                                "recipe_name": "Pesto Pasta",
+                                "description": "This Pesto Pasta recipe is a simple and delicious meal that can be made in under 30 minutes. The pasta is tossed with a homemade pesto sauce made with fresh basil, garlic, pine nuts, Parmesan cheese, and olive oil. Serve it as a main course or as a side dish with your favorite protein.",
+                                "image_url": "https://www.cookingclassy.com/wp-content/uploads/2022/02/pesto-pasta-1-600x900.jpg",
+                                "ingredients": [
+                                "1 lb pasta",
+                                "2 cups fresh basil leaves",
+                                "3 cloves garlic",
+                                "1/2 cup pine nuts",
+                                "1/2 cup grated Parmesan cheese",
+                                "1/2 cup olive oil",
+                                "Salt and pepper to taste"
+                                ],
+                                "cooking_method": "1. Cook the pasta in a large pot of boiling salted water until al dente, according to package instructions.2. While the pasta is cooking, make the pesto sauce. In a food processor, combine the basil leaves, garlic, pine nuts, Parmesan cheese, and olive oil. Pulse until the mixture is smooth and creamy.3. Drain the cooked pasta and return it to the pot.4. Add the pesto sauce to the pasta and toss to coat evenly.5. Season the pasta with salt and pepper to taste.6. Serve hot and enjoy!",
+                                "rating": 4.7
+                                }
+            ]
         },
         {
             "id": 5,
@@ -56,7 +318,87 @@
             "chef_name": "Ranveer Brar",
             "years_of_experience": 10,
             "number_of_recipes": 5,
-            "likes": 8
+            "likes": 8,
+            "about": "Ranveer Brar is a highly successful chef based in Mumbai. He owns 5 restaurant. He is a local celebrity. Known for great cooking and a warm smile, people come from all over the country to eat is special recipe",
+            "recipes": [
+                {
+                    "recipe_id": "45",
+                    "recipe_name": "Black Bean Soup",
+                    "description": "This Black Bean Soup is a hearty and flavorful vegetarian soup that can be made in under an hour. The soup is made with black beans, vegetables, and a blend of aromatic spices, including cumin, chili powder, and paprika. Serve it with a dollop of sour cream, chopped cilantro, and a squeeze of lime juice for added flavor.",
+                    "image_url": "https://www.twopeasandtheirpod.com/wp-content/uploads/2020/01/Black-Bean-Soup-2-650x975.jpg",
+                    "ingredients": [
+                    "1 tbsp olive oil",
+                    "1 onion, chopped",
+                    "3 cloves garlic, minced",
+                    "1 red bell pepper, chopped",
+                    "1 green bell pepper, chopped",
+                    "2 cans black beans, drained and rinsed",
+                    "1 can diced tomatoes",
+                    "4 cups vegetable broth",
+                    "1 tsp cumin",
+                    "1 tsp chili powder",
+                    "1/2 tsp smoked paprika",
+                    "Salt and pepper to taste",
+                    "Sour cream, chopped cilantro, and lime wedges for serving"
+                    ],
+                    "cooking_method": "1. Heat the olive oil in a large pot over medium heat.2. Add the onion and garlic and sauté until softened, about 5 minutes.3. Add the chopped bell peppers and sauté for an additional 5 minutes.4. Add the black beans, diced tomatoes, vegetable broth, cumin, chili powder, smoked paprika, salt, and pepper.5. Bring the soup to a boil, then reduce the heat and let it simmer for 20 minutes.6. Using an immersion blender or a regular blender, blend the soup until it is smooth and creamy.7. Serve hot with a dollop of sour cream, chopped cilantro, and a squeeze of lime juice. Enjoy!",
+                    "rating": 4.8
+                    },
+                    
+                    {
+                        "recipe_id": "67",
+                        "recipe_name": "Pesto Pasta",
+                        "description": "This Pesto Pasta is a quick and easy weeknight dinner that is bursting with flavor. The dish is made with pasta, homemade pesto sauce, cherry tomatoes, and fresh basil leaves. The pesto sauce is made with fresh basil, garlic, pine nuts, and Parmesan cheese, and it can be made in just a few minutes. This dish is perfect for a busy weeknight or a lazy weekend lunch.",
+                        "image_url": "https://www.twopeasandtheirpod.com/wp-content/uploads/2020/01/Black-Bean-Soup-6-650x975.jpg",
+                        "ingredients": [
+                        "8 oz pasta",
+                        "2 cups fresh basil leaves, packed",
+                        "3 cloves garlic",
+                        "1/2 cup pine nuts",
+                        "1/2 cup grated Parmesan cheese",
+                        "1/2 cup olive oil",
+                        "1 pint cherry tomatoes",
+                        "Salt and pepper to taste",
+                        "Fresh basil leaves for garnish"
+                        ],
+                        "cooking_method": "1. Cook the pasta according to package instructions until al dente.2. While the pasta is cooking, make the pesto sauce by combining the basil leaves, garlic, pine nuts, and Parmesan cheese in a food processor.3. Pulse until the ingredients are finely chopped.4. With the food processor running, slowly pour in the olive oil until the sauce is smooth and creamy.5. Drain the pasta and add it to a large bowl.6. Add the pesto sauce to the pasta and toss to combine.7. Add the cherry tomatoes to the bowl and toss gently.8. Season with salt and pepper to taste.9. Garnish with fresh basil leaves and serve immediately. Enjoy!",
+                        "rating": 4.9
+                        },
+                    
+                        {
+                            "recipe_id": "122",
+                            "recipe_name": "Masala Salad",
+                            "description": "Masala is a simple, fresh and classic Italian salad made with juicy ripe tomatoes, fresh mozzarella cheese, and fragrant basil leaves. The salad is then dressed with olive oil and balsamic vinegar, making it a light and refreshing side dish for any occasion.",
+                            "image_url": "https://www.twopeasandtheirpod.com/wp-content/uploads/2020/01/Black-Bean-Soup-5-650x975.jpg",
+                            "ingredients": [
+                            "4 ripe tomatoes, sliced",
+                            "1 lb fresh mozzarella cheese, sliced",
+                            "1/2 cup fresh basil leaves",
+                            "3 tbsp olive oil",
+                            "1 tbsp balsamic vinegar",
+                            "Salt and pepper to taste"
+                            ],
+                            "cooking_method": "1. Arrange the sliced tomatoes and mozzarella on a serving platter, alternating each slice.2. Sprinkle the fresh basil leaves on top of the tomato and mozzarella slices.3. Drizzle the olive oil and balsamic vinegar over the salad.4. Season the salad with salt and pepper to taste.5. Serve immediately and enjoy!",
+                            "rating": 4.9
+                            },
+                            {
+                                "recipe_id": "31",
+                                "recipe_name": "Pesto Pasta",
+                                "description": "This Pesto Pasta recipe is a simple and delicious meal that can be made in under 30 minutes. The pasta is tossed with a homemade pesto sauce made with fresh basil, garlic, pine nuts, Parmesan cheese, and olive oil. Serve it as a main course or as a side dish with your favorite protein.",
+                                "image_url": "https://images.unsplash.com/photo-1556126787-63706b2e0129?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cGVzdG8lMjBwYXN0YXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+                                "ingredients": [
+                                "1 lb pasta",
+                                "2 cups fresh basil leaves",
+                                "3 cloves garlic",
+                                "1/2 cup pine nuts",
+                                "1/2 cup grated Parmesan cheese",
+                                "1/2 cup olive oil",
+                                "Salt and pepper to taste"
+                                ],
+                                "cooking_method": "1. Cook the pasta in a large pot of boiling salted water until al dente, according to package instructions.2. While the pasta is cooking, make the pesto sauce. In a food processor, combine the basil leaves, garlic, pine nuts, Parmesan cheese, and olive oil. Pulse until the mixture is smooth and creamy.3. Drain the cooked pasta and return it to the pot.4. Add the pesto sauce to the pasta and toss to coat evenly.5. Season the pasta with salt and pepper to taste.6. Serve hot and enjoy!",
+                                "rating": 4.7
+                                }
+            ]
         },
         {
             "id": 6,
@@ -64,7 +406,76 @@
             "chef_name": "Madhur Jaffrey",
             "years_of_experience": 15,
             "number_of_recipes": 7,
-            "likes": 5
+            "likes": 5,
+            "about": "Madhur Jaffrey is a highly successful chef based in Mumbai. He owns 5 restaurant. He is a local celebrity. Known for great cooking and a warm smile, people come from all over the country to eat is special recipe",
+            "recipes": [
+                {
+                    "recipe_id": "98",
+                    "recipe_name": "Vegetable Fried Rice",
+                    "description": "Vegetable fried rice is a healthy and delicious dish that is perfect for a quick and easy weeknight dinner. It's packed with fresh vegetables, including carrots, bell peppers, and peas, and it's seasoned with soy sauce, garlic, and ginger for a flavorful kick. The dish is easy to customize to your liking, so feel free to add your favorite vegetables or protein sources.",
+                    "image_url": "https://www.whiskaffair.com/wp-content/uploads/2018/11/Vegetable-Fried-Rice-2-1.jpg",
+                    "ingredients": [
+                    "2 cups cooked rice",
+                    "1 tablespoon vegetable oil",
+                    "1/2 onion, chopped",
+                    "1 clove garlic, minced",
+                    "1/2 bell pepper, chopped",
+                    "1/2 cup frozen peas",
+                    "1/2 cup shredded carrots",
+                    "2 tablespoons soy sauce",
+                    "1/2 teaspoon ground ginger",
+                    "2 eggs, lightly beaten"
+                    ],
+                    "cooking_method": "1. Heat the oil in a large skillet over medium-high heat.2. Add the onion and garlic and cook until fragrant, about 1-2 minutes.3. Add the bell pepper, peas, and carrots and cook for another 2-3 minutes, or until the vegetables are tender.4. Push the vegetables to one side of the skillet and add the beaten eggs to the other side. Scramble the eggs until cooked through, then mix with the vegetables.5. Add the cooked rice to the skillet and stir to combine.6. Add the soy sauce and ground ginger and stir to coat the rice and vegetables evenly.7. Cook for another 2-3 minutes, or until everything is heated through.8. Serve hot and enjoy!",
+                    "rating": 3.2
+                    },
+                    
+                    {
+                        "recipe_id": "567",
+                        "recipe_name": "Mushroom Risotto",
+                        "description": "Mushroom risotto is a creamy and comforting dish that is perfect for a cozy dinner at home. Made with arborio rice and fresh mushrooms, this dish is rich and flavorful, and perfect for any occasion. It's also vegetarian, making it a great option for meatless meals.",
+                        "image_url": "https://www.whiskaffair.com/wp-content/uploads/2016/08/Clear-Chicken-Soup-2-1.jpg",
+                        "ingredients": [
+                        "6 cups vegetable broth",
+                        "1 pound mushrooms, sliced",
+                        "2 tablespoons olive oil",
+                        "1 onion, chopped",
+                        "2 garlic cloves, minced",
+                        "1 1/2 cups Arborio rice",
+                        "1/2 cup dry white wine",
+                        "1/2 cup grated Parmesan cheese",
+                        "2 tablespoons unsalted butter",
+                        "2 tablespoons chopped fresh parsley",
+                        "Salt and pepper, to taste"
+                        ],
+                        "cooking_method": "1. In a medium saucepan, heat the vegetable broth over low heat.2. In a large saucepan or Dutch oven, heat the olive oil over medium heat.3. Add the mushrooms and cook for about 5 minutes, or until they release their moisture and begin to brown.4. Remove the mushrooms from the pan and set aside.5. Add the onion and garlic to the same pan and cook until the onion is translucent, about 5 minutes.6. Add the Arborio rice and stir to coat in the oil. Cook for 1-2 minutes, or until the rice is lightly toasted.7. Add the white wine and stir until the liquid is absorbed.8. Begin adding the warm vegetable broth, one ladleful at a time, stirring frequently and allowing each addition to be absorbed before adding the next. Repeat this process until the rice is tender and creamy, about 25-30 minutes.9. Stir in the Parmesan cheese and butter until melted and combined.10. Add the cooked mushrooms and chopped parsley, and season with salt and pepper to taste.11. Serve hot and enjoy!",
+                        "rating": 4.8
+                        },
+                    
+                        {
+                            "recipe_id": "890",
+                            "recipe_name": "Palak Paneer",
+                            "description": "Palak Paneer is a classic Indian vegetarian dish made with spinach and paneer, a type of Indian cheese. The spinach is blanched and pureed with spices, creating a rich and creamy sauce. The paneer is then added to the sauce, creating a delicious and nutritious meal that is perfect for any occasion.",
+                            "image_url": "https://www.cookwithmanali.com/wp-content/uploads/2019/08/Palak-Paneer.jpg",
+                            "ingredients": [
+                            "1 pound fresh spinach",
+                            "8 oz paneer, cut into cubes",
+                            "1 onion, chopped",
+                            "2 garlic cloves, minced",
+                            "1 tsp ginger, minced",
+                            "2 tbsp oil or ghee",
+                            "1 tsp cumin seeds",
+                            "1/2 tsp turmeric powder",
+                            "1/2 tsp coriander powder",
+                            "1/2 tsp cumin powder",
+                            "1/2 tsp garam masala",
+                            "1/2 tsp salt",
+                            "1/2 cup heavy cream"
+                            ],
+                            "cooking_method": "1. Rinse the spinach leaves thoroughly and blanch them in boiling water for 2-3 minutes. Drain and let them cool.2. Puree the blanched spinach leaves in a food processor or blender, adding a little water if necessary. Set aside.3. Heat the oil or ghee in a large pan over medium heat. Add the cumin seeds and cook until they start to sizzle.4. Add the chopped onion, garlic, and ginger and cook until the onion is translucent.5. Add the turmeric, coriander, cumin, garam masala, and salt and cook for another 2-3 minutes.6. Add the pureed spinach and cook for 5-7 minutes, stirring occasionally.7. Add the paneer cubes and heavy cream and cook for another 2-3 minutes, until the paneer is heated through.8. Serve hot with naan or rice and enjoy!",
+                            "rating": 4.7
+                            }
+            ]
         }
     ]
 }
