@@ -5,8 +5,32 @@
             "title": "The differences between uncontrolled and controlled components",
             "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
 
-            "blog": "Controlled components are like the hammers and drills you use to build a building. You choose the size and shape of the hammers, the type of drills you use, and how they are used, to create the building.\n\nThese components are precisely designed and controlled to ensure that they work together in the way you want. Uncontrolled components, on the other hand, would be like the bricks themselves. They are not precisely designed or controlled, and their size, shape, and composition can vary. They may be too wet, too dry, too small, or too big, which can affect how well they can be used to build the building. In a more technical sense, controlled components are those that are designed and manufactured to meet specific requirements and standards, and are subject to strict quality control measures.\n\nUncontrolled components, on the other hand, may be more variable and less predictable in their performance, and may require more testing and validation to ensure they work correctly in a given system. Overall, the main difference between controlled and uncontrolled components is the level of precision and predictability in their designs, manufacturing, and performance.",
+            "article": "Controlled components are like the hammers and drills you use to build a building. You choose the size and shape of the hammers, the type of drills you use, and how they are used, to create the building.\n\nThese components are precisely designed and controlled to ensure that they work together in the way you want. Uncontrolled components, on the other hand, would be like the bricks themselves. They are not precisely designed or controlled, and their size, shape, and composition can vary. They may be too wet, too dry, too small, or too big, which can affect how well they can be used to build the building. In a more technical sense, controlled components are those that are designed and manufactured to meet specific requirements and standards, and are subject to strict quality control measures.\n\nUncontrolled components, on the other hand, may be more variable and less predictable in their performance, and may require more testing and validation to ensure they work correctly in a given system. Overall, the main difference between controlled and uncontrolled components is the level of precision and predictability in their designs, manufacturing, and performance.",
             "tags": ["react", "coding", "design", "job"]
+          },
+        {
+            "id": "blog2",
+            "title": "How to validate React props using PropTypes",
+            "image": "https://images.unsplash.com/photo-1527529482837-4698179dc6ce?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+
+            "article": "PropTypes is a tool in React that lets you verify if props are legit. You can tell if the props are the right kind of data, like a string or a number. It can help you debug bugs and make sure your components work properly.Using PropTypes can help you catch errors early on in development and make sure that your code is more reliable. It can also make it easier for other developers to understand how to use your components and what props are required. By using PropTypes, you can create more robust and maintainable code in your React applications.One potential negative side of using PropTypes is that it can add extra code to your components, which can make them harder to read and understand. Additionally, if you forget to update your PropTypes when you make changes to your component, you may get errors or unexpected behavior at runtime. Finally, PropTypes can only validate the types of data being passed through props and cannot check for more complex logic or edge cases. Therefore, while PropTypes can be helpful, they should not be relied on as the sole source of validation for your React component",
+            "tags": ["Proptypes", "Javascript", "Component", "react"]
+          },
+        {
+            "id": "blog3",
+            "title": "The difference between nodejs and express js.",
+            "image": "https://images.unsplash.com/photo-1605379399642-870262d3d051?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=906&q=80",
+
+            "article": "Node.js is a JavaScript runtime that allows developers to run JavaScript code outside of a web browser. Express.js is a framework built on top of Node.js that provides a set of features for building web applications, such as routing, middleware, and templates. While Node.js is a platform, Express.js is a tool built on top of it.Node.js is a platform for building server-side applications using JavaScript, while Express.js is a web framework that provides a set of tools for building web applications on top of Node.js. Express.js simplifies the process of building web applications by providing features like routing, middleware, and templating. Node.js provides the underlying runtime that allows developers to use JavaScript on the server-side, while Express.js provides a convenient and flexible way to build web applications on top of that runtime.",
+            "tags": ["NodeJs", "Javascript", "Express", "react"]
+          },
+        {
+            "id": "blog4",
+            "title": "What is a custom hook, and why will you create a custom hook?",
+            "image": "https://images.unsplash.com/photo-1550439062-609e1531270e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+
+            "article": "In React, a custom hook is a reusable function that encapsulates logic and stateful behavior so that it can be shared between components. A custom hook is created to avoid duplicating code and to make components more modular and easy to understand. For example, if you have several components that share similar functionality, you can create a custom hook that encapsulates that logic and state so that it can be reused across multiple components. Custom hooks can also help to reduce code complexity and improve maintainability by separating concerns and keeping code organized. Overall, custom hooks are a powerful tool for building flexible and reusable React components..",
+            "tags": ["NodeJs", "Javascript", "Express", "react"]
           }
           
     ]
