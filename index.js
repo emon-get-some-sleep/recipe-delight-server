@@ -3,6 +3,9 @@ const express = require('express');
 const app = express();
 var cors = require('cors')
 app.use(cors());
+
+const port = process.env.PORT || 5000;
+
 const chef = require('./chef.json');
 const foodGallary  = require('./foodGallary.json');
 const blogs  = require('./blog.json');
@@ -32,6 +35,6 @@ app.get('/chefs/:id', (req, res) => {
 
 
 
-app.listen(5000, () => {
-    console.log('server is running on port 5000')
+app.listen(port, () => {
+    console.log(`Recipe delight is running on port : ${port}`);
 })
