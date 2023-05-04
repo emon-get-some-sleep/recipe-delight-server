@@ -1,0 +1,13 @@
+{
+    "blogs": [
+        {
+            "id": "blog1",
+            "title": "The differences between uncontrolled and controlled components",
+            "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+
+            "blog": "Controlled components are like the hammers and drills you use to build a building. You choose the size and shape of the hammers, the type of drills you use, and how they are used, to create the building.\n\nThese components are precisely designed and controlled to ensure that they work together in the way you want. Uncontrolled components, on the other hand, would be like the bricks themselves. They are not precisely designed or controlled, and their size, shape, and composition can vary. They may be too wet, too dry, too small, or too big, which can affect how well they can be used to build the building. In a more technical sense, controlled components are those that are designed and manufactured to meet specific requirements and standards, and are subject to strict quality control measures.\n\nUncontrolled components, on the other hand, may be more variable and less predictable in their performance, and may require more testing and validation to ensure they work correctly in a given system. Overall, the main difference between controlled and uncontrolled components is the level of precision and predictability in their designs, manufacturing, and performance.",
+            "tags": ["react", "coding", "design", "job"]
+          }
+          
+    ]
+}
